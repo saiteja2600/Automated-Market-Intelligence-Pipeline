@@ -1,0 +1,46 @@
+{
+  "pagination": {
+    "limit": 100,
+    "offset": 0,
+    "count": 3,
+    "total": 172430
+  },
+  "data": [
+    {
+      "name": "Apple Inc",
+      "symbol": "AAPL",
+      "has_intraday": true,
+      "has_eod": true,
+      "stock_exchange": {
+        "name": "NASDAQ Stock Market LLC",
+        "acronym": "NASDAQ",
+        "mic": "XNAS",
+        "country": "USA"
+      }
+    },
+    {
+      "name": "Microsoft Corporation",
+      "symbol": "MSFT",
+      "has_intraday": true,
+      "has_eod": true,
+      "stock_exchange": {
+        "name": "NASDAQ Stock Market LLC",
+        "acronym": "NASDAQ",
+        "mic": "XNAS",
+        "country": "USA"
+      }
+    },
+    {
+      "name": "Tesla Inc",
+      "symbol": "TSLA",
+      "has_intraday": true,
+      "has_eod": true,
+      "stock_exchange": {
+        "name": "NASDAQ Stock Market LLC",
+        "acronym": "NASDAQ",
+        "mic": "XNAS",
+        "country": "USA"
+      }
+    }
+  ]
+}
